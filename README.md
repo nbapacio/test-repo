@@ -1,2 +1,2 @@
 # test-repo
-This is a test repo or git.
+This is a test repo of git.
